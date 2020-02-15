@@ -60,7 +60,8 @@
 	    
     ]
 },  
-	"hotTopics":
+ {
+	 "hotTopics" :
 	[
 		{
 		 "pic" : "https://thisguycodez.github.io/data/prerolls.jpg", 
@@ -95,6 +96,7 @@
 	
 		    },
 	]
+ }
 	
 }]
  
